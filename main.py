@@ -210,6 +210,9 @@ def add_item():
     qty_str = input("Quantity: ").strip()
     try:
         quantity = int(qty_str)
+        if(quantity < 0):
+            print("Quantity cannot be negative.")
+            return
     except ValueError:
         print("Quantity must be an integer.")
         return
