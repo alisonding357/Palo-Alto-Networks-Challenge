@@ -1,0 +1,127 @@
+[
+  {
+    "name": "organic milk",
+    "date_added": "2025-03-01",
+    "predicted_expiration": "2025-03-08",
+    "current_quantity": 100,
+    "unit": "units",
+    "category": "General",
+    "batches": [
+      {
+        "amount": 100,
+        "restocked_date": "2025-03-01",
+        "expiration_date": "2025-03-08"
+      }
+    ]
+  },
+  {
+    "name": "fair-trade coffee (lbs)",
+    "date_added": "2025-02-15",
+    "predicted_expiration": "2025-08-14",
+    "current_quantity": 5,
+    "unit": "units",
+    "category": "General",
+    "batches": [
+      {
+        "amount": 5,
+        "restocked_date": "2026-03-08",
+        "expiration_date": "2026-09-04"
+      }
+    ]
+  },
+  {
+    "name": "recycled paper towels",
+    "date_added": "2025-01-10",
+    "predicted_expiration": "2035-01-10",
+    "current_quantity": 5,
+    "unit": "units",
+    "category": "General",
+    "batches": [
+      {
+        "amount": 5,
+        "restocked_date": "2025-01-10",
+        "expiration_date": "2035-01-08"
+      }
+    ]
+  },
+  {
+    "name": "fresh eggs",
+    "date_added": "2026-02-15",
+    "predicted_expiration": "2025-03-18",
+    "current_quantity": 30,
+    "unit": "units",
+    "category": "General",
+    "batches": [
+      {
+        "amount": 6,
+        "restocked_date": "2026-02-15",
+        "expiration_date": "2026-02-28"
+      },
+      {
+        "amount": 12,
+        "restocked_date": "2026-02-28",
+        "expiration_date": "2026-03-14"
+      },
+      {
+        "amount": 6,
+        "restocked_date": "2026-03-02",
+        "expiration_date": "2026-03-20"
+      },
+      {
+        "amount": 6,
+        "restocked_date": "2026-03-04",
+        "expiration_date": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "name": "cleaning spray",
+    "date_added": "2025-02-20",
+    "predicted_expiration": "2026-02-20",
+    "current_quantity": 3,
+    "unit": "units",
+    "category": "General",
+    "batches": [
+      {
+        "amount": 1,
+        "restocked_date": "2025-06-15",
+        "expiration_date": "2026-06-15"
+      },
+      {
+        "amount": 2,
+        "restocked_date": "2026-01-15",
+        "expiration_date": "2027-01-15"
+      }
+    ]
+  },
+  {
+    "name": "Kimchi",
+    "date_added": "2026-03-06",
+    "predicted_expiration": "2026-04-05",
+    "current_quantity": 1,
+    "unit": "units",
+    "category": "General",
+    "batches": [
+      {
+        "amount": 1,
+        "restocked_date": "2026-03-06",
+        "expiration_date": "2026-04-05"
+      }
+    ]
+  },
+  {
+    "name": "Bread",
+    "category": "General",
+    "current_quantity": 1,
+    "batches": [
+      {
+        "amount": 1,
+        "restocked_date": "2026-03-05",
+        "expiration_date": "2026-03-10"
+      }
+    ],
+    "unit": "units",
+    "date_added": "2026-03-05",
+    "predicted_expiration": "2026-03-10"
+  }
+]
