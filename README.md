@@ -3,6 +3,7 @@
 **Candidate Name: Alison Ding**  
 **Scenario Chosen:** Green-Tech Inventory Assistant (CLI)  
 **Estimated Time Spent: 6 hours**  
+**Video Demo Link: https://drive.google.com/file/d/12m_-oCI9aXv3D2yYzyEt-VTgAg840aO_/view?usp=sharing 
 
 ---
 
