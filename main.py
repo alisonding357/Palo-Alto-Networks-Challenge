@@ -3,6 +3,14 @@ cli routing for the green-tech inventory assistant.
 handles user commands: add, view, update, search.
 """
 
+from pathlib import Path
+
+try:
+    from dotenv import load_dotenv
+    load_dotenv(Path(__file__).parent / ".env")
+except ModuleNotFoundError:
+    pass  # .env not loaded; set OPENAI_API_KEY or GEMINI_API_KEY in your shell, or: pip install python-dotenv
+
 import sys
 from datetime import datetime
 
