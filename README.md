@@ -88,3 +88,20 @@ inventory_app/
   test_app.py    # Pytest tests
   .env           # API keys (do not commit)
 ```
+
+---
+
+## Technical Stack
+
+- **Language:** Python 3.x
+- **Libraries:** `openai`, `google-generativeai`, `python-dotenv`, `pytest`
+- **AI models:** OpenAI GPT-4o-mini, Google Gemini 2.0 Flash (with rule-based fallback when API unavailable)
+
+---
+
+## Future Enhancements
+
+- **Manual overrides** – Delete items and edit AI-predicted expiration dates
+- **Pagination** – Page-scrolling for large inventories in the terminal view
+- **Database migration** – Move from JSON to PostgreSQL for speed and reliability
+- **Multi-user editing** – Concurrency controls for team collaboration
